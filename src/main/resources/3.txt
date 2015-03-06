@@ -1,0 +1,12 @@
+Sita,Pant
+Sita,Shrestha
+Sita,Maharjan
+Sita,Manandhar
+Gita,Pant
+Gita,Shrestha
+Gita,Maharjan
+Gita,Manandhar
+Rekha,Pant
+Rekha,Shrestha
+Rekha,Maharjan
+Rekha,Manandhar

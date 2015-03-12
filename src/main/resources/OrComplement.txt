@@ -1,0 +1,7 @@
+Dipesh,Manandhar
+Shyam,Pant
+Shyam,Maharjan
+Ram,Maharjan
+Ram,Pant
+Sanjay,Pant
+Ram,Manandhar

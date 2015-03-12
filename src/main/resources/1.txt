@@ -1,9 +1,0 @@
-Sita,Bhandari
-Sita,Bhatta
-Sita,Baiba
-Gita,Bhandari
-Gita,Bhatta
-Gita,Baiba
-Rekha,Bhandari
-Rekha,Bhatta
-Rekha,Baiba

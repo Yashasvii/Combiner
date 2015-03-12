@@ -1,0 +1,6 @@
+Sanjay,Pant
+Dipesh,Shrestha
+Rekha,Shrestha
+Sita,Pant
+Ram,Bhatta
+Dipesh,Baiba

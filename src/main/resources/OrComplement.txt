@@ -1,7 +1,7 @@
-Dipesh,Manandhar
-Shyam,Pant
+Dipesh,Maharjan
 Shyam,Maharjan
-Ram,Maharjan
+Hari,Manandhar
+Hari,Shrestha
+Shyam,Manandhar
 Ram,Pant
-Sanjay,Pant
 Ram,Manandhar

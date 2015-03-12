@@ -92,7 +92,7 @@ public class Combiner {
             bw2.write(content+"\n");
         }
 
-        for(String content:getLogicContent(pathList1.get(1).toString(), pathList2.get(0).toString(),limit-2*limit/3))
+        for(String content:getLogicContent(pathList1.get(1).toString(), pathList2.get(0).toString(),limit-limit/3-limit/3))
         {
             bw2.write(content+"\n");
         }

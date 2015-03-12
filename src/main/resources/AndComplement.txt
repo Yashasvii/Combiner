@@ -1,6 +1,6 @@
-Sanjay,Pant
-Dipesh,Shrestha
-Rekha,Shrestha
-Sita,Pant
-Ram,Bhatta
-Dipesh,Baiba
+Dipesh,Maharjan
+Ram,Manandhar
+Rekha,Manandhar
+Sita,Shrestha
+Shyam,Bhandari
+Hari,Bhatta
